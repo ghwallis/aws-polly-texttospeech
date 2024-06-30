@@ -37,3 +37,9 @@ This project demonstrates how to build a serverless application using various AW
  - Basic knowledge of AWS services (S3, Lambda, DynamoDB, API Gateway, SNS, Polly)
  - Python 3.8+
  - Boto3 (AWS SDK for Python)
+   
+### Video Demo of Final Product.
+
+Converting provided text to speech and retrieving mp3 audio from DynamoDB.
+
+<video src='https://github.com/ghwallis/aws-polly-texttospeech/assets/36977382/1da7d153-d588-47db-814c-b41b2ab5d942' width=180/>
